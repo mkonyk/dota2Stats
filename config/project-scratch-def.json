@@ -1,10 +1,13 @@
 {
-  "orgName": "mkonyk company",
+  "orgName": "Dota2 Stats",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi", "Communities"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
