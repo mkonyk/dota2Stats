@@ -1,5 +1,5 @@
 {
-  "orgName": "Dota2 Stats",
+  "orgName": "Dota2",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi", "Communities"],
   "settings": {

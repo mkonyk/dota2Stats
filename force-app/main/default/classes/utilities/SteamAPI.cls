@@ -1,4 +1,4 @@
-public without sharing class SteapAPI {
+public without sharing class SteamAPI {
     
     public SteamAPI() {
 
