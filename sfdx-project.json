@@ -1,11 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "steamAPI",
       "default": true
     }
   ],
-  "name": "Dota2Stats",
+  "name": "steamAPI",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"

@@ -1,5 +1,5 @@
 {
-  "orgName": "Dota2",
+  "orgName": "SteamAPI",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi", "Communities"],
   "settings": {
